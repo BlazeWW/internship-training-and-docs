@@ -53,3 +53,11 @@ New planning section:
 - `14-site-and-execution-planning/`
 
 Students must begin with site analysis and group-specific first-week training before detailed project work begins.
+
+## Self-Paced Resource URLs
+
+The main self-paced learning resource file is available at:
+
+`13-resource-index/self-paced-resource-urls.md`
+
+This includes freeCodeCamp YouTube tutorials, official documentation, group-specific learning paths, and minimum watch lists for all current internship groups.

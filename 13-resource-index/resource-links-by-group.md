@@ -1,75 +1,41 @@
 # Resource Index by Group
 
-Students should use official documentation where possible and keep notes on what they learn.
+Students should use the self-paced learning URLs in this folder together with the project repositories and GitHub Issues assigned to them.
 
-## Common Resources
+Start with:
 
-- GitHub Docs: repositories, branches, commits, pull requests, and issues
-- Markdown basics
-- Professional progress updates
-- Remote communication and documentation practices
+- `self-paced-resource-urls.md`
 
-## Software Engineering 1
+This file contains the main video-first learning path for each current internship group:
 
-- TypeScript basics
-- API concepts
-- Database relationship basics
-- User stories and acceptance criteria
-- Basic software architecture concepts
+- Software Engineering 1
+- Software Engineering 2
+- Software Development 1
+- Software Development 2
+- Architectural Draughting
+- Cloud Administration
+- Cyber Security
 
-## Software Engineering 2
+## Primary Resource File
 
-- TypeScript deeper usage
-- Backend architecture
-- PostgreSQL schema design
-- Prisma documentation, because the current app uses Prisma
-- Drizzle ORM documentation, only if migration is approved
-- REST API design
-- Role-based access control
+`self-paced-resource-urls.md` includes:
 
-## Software Development 1
+- freeCodeCamp YouTube resources
+- official documentation links
+- group-specific minimum watch lists
+- expected project tasks linked to each learning path
+- weekly learning progress template
 
-- HTML, CSS, JavaScript basics
-- TypeScript basics
-- React basics
-- Next.js basics
-- Tailwind CSS basics
-- GitHub workflow
+## Common Starting Points
 
-## Software Development 2
+| Topic | URL |
+|---|---|
+| freeCodeCamp YouTube | https://www.youtube.com/@freecodecamp |
+| freeCodeCamp Courses | https://www.youtube.com/@freecodecamp/courses |
+| Git and GitHub for Beginners | https://www.youtube.com/watch?v=RGOj5yH7evk |
+| GitHub Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world |
+| Markdown Basic Syntax | https://www.markdownguide.org/basic-syntax/ |
 
-- React state and props
-- Next.js routing and data flow
-- API integration
-- Form validation
-- TypeScript interfaces and types
-- Manual frontend testing
+## Important Note
 
-## Cloud Administration
-
-- Docker and docker-compose basics
-- Environment variable management
-- GitHub Actions basics
-- CI/CD concepts
-- PostgreSQL backup and restore concepts
-- Deployment environment planning
-- Monitoring and logging basics
-
-## Cyber Security
-
-- OWASP Top 10
-- OWASP Web Security Testing Guide
-- Authentication and authorization basics
-- Role-based access control
-- GitHub secret hygiene
-- API security basics
-- Secure customer data handling
-
-## Architectural Draughting
-
-- Architectural draughting fundamentals
-- Space planning basics
-- Mixed-use development layout references
-- Public/private/restricted access zoning
-- AutoCAD/Revit/SketchUp learning resources, depending on available tools
-- PDF export and presentation board basics
+Students are not expected to finish every resource before contributing. The goal is to learn enough to start participating, then continue learning alongside real project work.
