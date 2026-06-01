@@ -1,193 +1,105 @@
-# First Week Training Schedule
+# First Week Remote Training Schedule
 
-## Purpose
+The first week is focused mainly on training and preparation. Because the internship is remote and students have different availability, students should work through the schedule asynchronously and join informal talks when arranged.
 
-The first week is mainly focused on onboarding, training, tool setup, and understanding the technology or discipline-specific workflow before deeper project work begins.
+## Day 1: Orientation and Information Collection
 
-Because the internship is remote and students have different availability, this schedule is flexible. Students should work through the material at their own pace and provide clear progress updates.
+### All Groups
 
-## Day 1: Remote Onboarding and Availability Confirmation
-
-### Focus
-
-Understand the internship structure and confirm student availability.
-
-### Tasks
-
-- Read the welcome and orientation notes.
-- Complete the student information form.
-- Confirm whether you are full-time or part-time.
-- Submit your general availability.
-- Submit exam or study commitments.
-- Create or confirm your GitHub account.
-- Identify your internship group:
-  - Software Development / Software Engineering
-  - CAD
-  - Cyber Security
+- Read welcome and orientation notes.
+- Submit student information form.
+- Confirm GitHub username.
+- Confirm availability and exam/study commitments.
+- Confirm your student group.
 
 ### Outcome
 
-Each student should have submitted their basic information, availability, and GitHub username where applicable.
+Student information, availability, and group placement are confirmed.
 
-## Day 2: Tools and Account Setup
+## Day 2: GitHub and Repository Workflow
 
-### Focus
+### All Groups
 
-Ensure each student has access to the required tools.
-
-### Tasks for All Students
-
-- Confirm access to the communication platform.
-- Confirm access to shared documents when provided.
-- Create a folder for internship work.
-- Start a personal notes document for training.
-- Review GitHub basics.
-
-### Software Students
-
-- Install Visual Studio Code.
-- Install Git.
-- Install Node.js and npm.
-- Confirm that Git works from the terminal.
-- Learn the difference between cloning, branching, committing, pushing, and pull requests.
-
-### CAD Students
-
-- Confirm CAD software access.
-- Review layers, dimensions, annotations, and layout basics.
-- Review the Synergy Inc. CAD repository structure.
-- Learn how to export drawings for review.
-
-### Cyber Security Students
-
-- Review OWASP Top 10.
-- Learn basic web application security terminology.
-- Review why passwords, API keys, and secrets must not be uploaded to GitHub.
+- Learn GitHub basics.
+- Understand repositories, issues, branches, commits, pull requests, and reviews.
+- Read the repository-specific start guide.
+- Practise writing a progress update.
 
 ### Outcome
 
-Each student should confirm which tools they can access and what still needs to be resolved.
+Students understand how work will be assigned, submitted, and reviewed remotely.
 
-## Day 3: Core Project Stack and Workflow Training
+## Day 3: Group-Specific Technical Training
 
-### Software Students
+### Software Engineering 1
 
-Study:
+- Study system entities and workflows.
+- Review user stories and acceptance criteria.
+- Read database and API overview documents.
 
-- JavaScript basics
-- TypeScript basics
-- React components
-- Next.js project structure
-- Tailwind CSS utility classes
+### Software Engineering 2
 
-Key concepts:
+- Study backend structure, API contracts, database relationships, and access control.
+- Review current Prisma usage and ORM decision note.
 
-- Components
-- Props
-- State
-- Pages and routes
-- Tailwind utility classes
-- Running a project locally
+### Software Development 1
 
-### CAD Students
+- Study HTML, CSS, JavaScript, TypeScript basics, React components, Next.js pages, and Tailwind CSS.
 
-Study:
+### Software Development 2
 
-- Synergy Inc. space requirements
-- Public, private, operational, and restricted areas
-- Practical flow between offices, restaurants, medical rooms, workshops, refinery areas, jewellers hub, and auction house
-- File naming and revision logging
+- Study Next.js feature structure, API wrappers, form validation, typed data models, and frontend integration.
 
-### Cyber Security Students
+### Cloud Administration
 
-Study:
+- Study environment variables, Docker, local services, GitHub Actions, CI/CD basics, deployment environments, backups, and monitoring.
 
-- HTTP requests and responses
-- Login and session concepts
-- Basic access control
-- Common web application risks
+### Cyber Security
+
+- Study OWASP Top 10, authentication, authorization, role-based access, customer data exposure risks, and GitHub secret safety.
+
+### Architectural Draughting
+
+- Study the Synergy Inc. project brief, file naming rules, GitHub workflow, space planning, zoning, and review exports.
 
 ### Outcome
 
-Each student should produce training notes and a list of questions.
+Each student has started the learning path for their group and has questions ready for an informal check-in.
 
-## Day 4: Database, Workflow, Spatial Planning, and Security Concepts
+## Day 4: Project-Specific Training
 
-### Software Students
+### Blaze Diagnostics Groups
 
-Study:
+- Review the Blaze Diagnostics project brief.
+- Review the job card workflow.
+- Review customer, vehicle, quote, parts, invoice, notification, and activity log concepts.
+- Review how each group contributes to the software project.
 
-- PostgreSQL basics
-- Tables, rows, columns, primary keys, and relationships
-- Basic SQL concepts
-- What an ORM is
-- What Drizzle ORM is used for
-- Basic CRUD operations
+### Synergy Inc. Architectural Draughting Group
 
-### CAD Students
-
-Study:
-
-- Zoning of spaces
-- Operational flow
-- Customer-facing areas versus staff-only areas
-- Service and delivery access
-- Safety and restricted areas
-- Initial site layout assumptions
-
-### Cyber Security Students
-
-Study:
-
-- Protecting customer data
-- Role-based access control
-- API security basics
-- Database security basics
-- Writing a simple security checklist
+- Review mixed-use space requirements.
+- Research public, staff-only, service, and restricted zones.
+- Prepare first notes on zoning and movement flow.
 
 ### Outcome
 
-Each student should understand how their role connects to real project workflows.
+Students understand the project context and how their group contributes.
 
-## Day 5: Project Alignment and Starter Tasks
+## Day 5: Starter Task Preparation
 
-### Focus
+### All Groups
 
-Prepare for actual project contribution.
+- Confirm first starter task or issue.
+- Confirm what needs to be submitted.
+- Confirm where the work should be saved.
+- Submit first weekly progress update.
 
-### Tasks
+### Possible First Deliverables
 
-- Confirm project interest and preferred role.
-- Review which project you are most suited to.
-- Prepare questions for an informal discussion.
-- Identify what still needs setup help.
-- Receive or prepare for your first small task.
-- Begin working on a simple starter deliverable.
-
-### Possible Starter Deliverables
-
-#### Software Students
-
-- Confirm development environment setup.
-- Practise GitHub workflow.
-- Build or review a small Next.js component.
-- Practise Tailwind CSS styling.
-- Review a basic PostgreSQL table structure.
-
-#### CAD Students
-
-- Prepare early zoning ideas for Synergy Inc.
-- Research layout requirements for mixed-use spaces.
-- Draft a simple conceptual layout.
-- Prepare notes on movement flow and space separation.
-
-#### Cyber Security Students
-
-- Prepare a basic security checklist.
-- Identify possible risks in a workshop management system.
-- Identify access-control requirements.
-- Prepare notes on protecting customer and vehicle data.
-
-### Outcome
-
-Each student should have completed the first training phase and be ready to begin guided project work.
+- Software Engineering 1: entity map or user story review
+- Software Engineering 2: API/database gap analysis
+- Software Development 1: simple UI component or component explanation
+- Software Development 2: feature trace or small integration task
+- Cloud Administration: setup checklist or deployment readiness draft
+- Cyber Security: security checklist or threat model draft
+- Architectural Draughting: zoning research note or first concept export

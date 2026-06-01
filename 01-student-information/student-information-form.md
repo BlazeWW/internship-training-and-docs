@@ -1,40 +1,46 @@
 # Student Information Form
 
-Students should complete and submit the following information before project allocation.
+Please complete and return this information through the agreed communication channel.
 
 ## Personal Details
 
 - Full name:
 - Email address:
-- Contact number:
 - CTU course:
 - Year of study:
-- Full-time or part-time student:
+
+## Group
+
+Select one:
+
+- Software Engineering 1
+- Software Engineering 2
+- Architectural Draughting
+- Cloud Administration
+- Cyber Security
+- Software Development 1
+- Software Development 2
 
 ## Availability
 
+- Full-time or part-time student:
 - General weekly availability:
-- Preferred times for informal remote discussions:
-- Exam dates or study commitments:
-- Any known unavailable dates:
+- Preferred times for informal check-ins:
+- Exam dates or important study commitments:
+- Days/times you are not available:
 
-## Skills and Tools
+## GitHub and Tools
 
-- Main skill area: Software / CAD / Cyber Security
-- Tools used before:
 - GitHub username:
-- Do you have Git installed? Yes / No
-- Do you have Visual Studio Code installed? Yes / No / Not applicable
-- Do you have CAD software access? Yes / No / Not applicable
-
-## Project Interest
-
-Which project interests you most?
-
-- Blaze Diagnostics App
-- Synergy Inc.
-- Both
+- Do you have Git installed?
+- Do you have Visual Studio Code installed, if applicable?
+- Do you have Node.js installed, if applicable?
+- Do you have access to CAD/draughting software, if applicable?
+- What tools have you used before?
+- Which tools are new to you?
 
 ## Learning Goals
 
-What do you want to learn or improve during this internship?
+- What do you want to learn during this internship?
+- What are you currently comfortable with?
+- What do you need help with first?

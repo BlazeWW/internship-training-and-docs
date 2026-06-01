@@ -1,56 +1,36 @@
 # GitHub Basics for Interns
 
-## Why We Use GitHub
-
-GitHub helps us track work, manage files, review changes, and organise tasks through issues and pull requests.
+GitHub will be used for version control, task tracking, review, documentation, and project organisation.
 
 ## Key Terms
 
-- Repository: A project folder stored on GitHub.
-- Commit: A saved change with a message.
-- Branch: A separate workspace for changes.
-- Pull Request: A request to merge changes into the main project.
-- Issue: A task, bug, or discussion item.
-- Review: Feedback given before changes are accepted.
+- Repository: the project folder stored in GitHub.
+- Issue: a task, bug, user story, research item, or review item.
+- Branch: a separate working copy used so you do not change `main` directly.
+- Commit: a saved change with a message.
+- Pull request: a request for your work to be reviewed and merged.
+- Review: feedback on your work before it becomes part of the main project.
 
 ## Basic Workflow
 
 1. Read your assigned issue.
-2. Create or use the correct branch.
-3. Make your changes.
+2. Create a branch.
+3. Complete a small focused piece of work.
 4. Commit with a clear message.
-5. Push your changes.
-6. Open a pull request if required.
-7. Respond to review feedback.
+5. Push your branch.
+6. Open a pull request where required.
+7. Respond to feedback.
 
 ## Good Commit Messages
 
-Examples:
-
 ```text
-Add first week training notes
-Create customer status workflow draft
-Add Synergy Inc. zoning research
-Update CAD revision log
-Fix README formatting
+Add customer status badge component
+Document job card workflow
+Add local setup checklist
+Add first zoning concept export
+Review customer access risks
 ```
 
-## Poor Commit Messages
+## Important Rule
 
-Avoid:
-
-```text
-update
-stuff
-final
-changes
-my work
-```
-
-## Important Rules
-
-- Do not commit passwords or API keys.
-- Do not overwrite someone else's work.
-- Do not delete files unless instructed.
-- Ask before making major structural changes.
-- Keep work organised and easy to review.
+Do not commit directly to `main` unless specifically instructed.

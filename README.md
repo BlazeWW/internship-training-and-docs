@@ -1,34 +1,36 @@
 # Blaze Web Works Internship Training and Documentation
 
-This repository contains the onboarding, training, project briefing, tools, resources, templates, and weekly progress documentation for the Blaze Web Works remote internship programme.
+This repository contains the shared onboarding, training, project, and process documentation for the CTU Bloemfontein remote internship.
 
 ## Current Internship Groups
 
-The internship currently includes:
+- Software Engineering 1
+- Software Engineering 2
+- Architectural Draughting
+- Cloud Administration
+- Cyber Security
+- Software Development 1
+- Software Development 2
 
-- Software Developers / Software Engineers
-- CAD Students
-- Cyber Security Analysts
+Design students are not part of the current intake.
 
-Design students are not included in the current internship structure.
+## Remote Format
 
-## Remote Internship Format
+This is a remote internship. Meetings are arranged informally based on availability because some students are part-time and others are full-time. Students must communicate availability, study commitments, blockers, and progress clearly.
 
-This is a remote internship. Meetings are arranged informally based on availability because students may be full-time or part-time, and not everyone can attend the same fixed meeting time.
+## Repository Sections
 
-Students are expected to:
-
-- Communicate availability clearly.
-- Ask for help early.
-- Track their own progress.
-- Use GitHub where relevant.
-- Complete assigned training before project work begins.
-- Submit short, clear progress updates.
-
-## Recommended First Files To Read
-
-1. `00-welcome-and-orientation/welcome-and-orientation-notes.md`
-2. `01-student-information/student-information-form.md`
-3. `02-first-week-training/first-week-training-schedule.md`
-4. `03-common-tools/github-basics.md`
-5. The training file for your group.
+- `00-welcome-and-orientation/` - welcome notes and orientation material
+- `01-student-information/` - student information form
+- `02-first-week-training/` - first week schedule focused on training
+- `03-common-tools/` - GitHub and shared workflow basics
+- `04-software-engineering-training/` - Software Engineering 1 and 2 learning paths
+- `05-software-development-training/` - Software Development 1 and 2 learning paths
+- `06-architectural-draughting-training/` - Architectural Draughting learning path
+- `07-cloud-administration-training/` - Cloud Administration learning path
+- `08-cyber-security-training/` - Cyber Security learning path
+- `09-project-briefs/` - Blaze Diagnostics and Synergy Inc. briefs
+- `10-progress-updates/` - update templates
+- `11-github-issue-templates/` - issue templates and starter tasks
+- `12-policies-and-guidelines/` - remote communication and confidentiality
+- `13-resource-index/` - resource index by group

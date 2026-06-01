@@ -2,92 +2,83 @@
 
 ## Blaze Web Works Internship Programme
 
-## 1. Opening Welcome
+Welcome to the Blaze Web Works remote internship programme.
 
-Welcome to the Blaze Web Works internship programme. We are very happy to have you with us and we are looking forward to working with you over the course of this internship.
+This internship is designed to provide practical exposure to real-world projects, real project expectations, and professional collaboration across multiple disciplines.
 
-This programme is designed to give you practical exposure to real-world projects, real project expectations, and the kind of teamwork that happens in a professional working environment.
+## Current Student Groups
 
-The goal is not for you to know everything already. The goal is for you to learn, participate, ask questions, grow your confidence, and gain experience that will help prepare you for your future career.
+The current internship groups are:
 
-## 2. Purpose of the Orientation
+- Software Engineering 1
+- Software Engineering 2
+- Architectural Draughting
+- Cloud Administration
+- Cyber Security
+- Software Development 1
+- Software Development 2
 
-The orientation is about helping you understand:
+Design students have been removed from the current internship intake.
 
-- What Blaze Web Works does
-- What the internship is about
-- What projects you will be introduced to
-- What will be expected from you
-- How we will communicate and manage tasks
-- How teams will be allocated
-- What tools and technologies you should start learning
-- How we will handle exams, study commitments, and availability
+## Remote Internship Format
 
-## 3. Introduction to Blaze Web Works
+This is a remote position. Because some students are part-time and others are full-time, there will not be one fixed meeting time for everyone. Meetings and informal talks will be arranged according to availability.
 
-Blaze Web Works focuses on creating practical digital solutions for real business needs.
+Students are expected to communicate clearly about:
 
-Our work involves:
+- Availability
+- Exam dates and study commitments
+- Progress
+- Blockers
+- Questions
+- Completed work
 
-- Software development
-- Web applications
-- Business systems
-- Workflow planning
-- Automation
-- Project documentation
-- Digital transformation
-- System security awareness
-- Client-focused problem solving
+## Internship Purpose
 
-## 4. Internship Vision
+The purpose of this internship is to help students gain practical experience while also training them to become stronger future professionals.
 
-The vision for this internship is to give you meaningful exposure to a real working environment while helping you develop the skills and habits you will need in your future career.
+Students are not expected to know everything at the start. They are expected to learn, communicate, ask questions, complete assigned work, and respond to feedback.
 
-This internship is about:
+## Projects
 
-- Learning how real projects work
-- Understanding how different roles work together
-- Developing professional communication habits
-- Learning how to take responsibility for assigned tasks
-- Building confidence in your chosen field
-- Understanding how to receive and apply feedback
-- Creating practical experience you can carry forward
+The internship is structured around two major projects:
 
-## 5. Internship Expectations
+1. Blaze Diagnostics App
+2. Synergy Inc.
 
-You are not expected to be experts from day one. However, you are expected to approach the internship with professionalism and commitment.
+## Blaze Diagnostics App
 
-The main expectations are:
+Blaze Diagnostics is a software system for mechanical workshops. It helps workshops communicate with clients about vehicle progress, quote approvals, parts ordered, parts delivery, mechanic progress, invoicing, and collection readiness.
 
-- Attend arranged remote sessions where possible
-- Be on time for agreed meetings
-- Communicate if you are unavailable
-- Ask questions when you do not understand something
-- Let the team know early if you are stuck
-- Complete assigned tasks as best as you can
-- Keep your work organised
-- Respect project confidentiality
-- Use the correct tools and processes
-- Be willing to learn
-- Be open to feedback
-- Work respectfully with others
-- Take responsibility for your own growth
+Relevant groups:
 
-## 6. Remote Format
+- Software Engineering 1
+- Software Engineering 2
+- Software Development 1
+- Software Development 2
+- Cloud Administration
+- Cyber Security
 
-This internship is remote. Meetings will be arranged informally based on availability because some students are part-time and others are full-time.
+## Synergy Inc.
 
-This means:
+Synergy Inc. is a mixed-use architectural and business development project involving offices, restaurants, doctors' rooms, mechanical workshops, a diamond cutting house, a gold refinery, a jewellers hub, and an auction house.
 
-- There may not be one fixed meeting time for everyone.
-- Guidance may happen through informal talks, messages, or smaller group sessions.
-- Students must take responsibility for checking messages and providing updates.
-- Work and learning progress must be documented clearly.
+Relevant group:
 
-## 7. Exams, Study Balance, and Availability
+- Architectural Draughting
 
-If you are writing exams or have important academic commitments during the internship, please communicate this in advance.
+Cyber Security and Cloud Administration may provide input later if digital systems, access control, or operational infrastructure are planned.
 
-We will work around exam schedules as far as possible. The internship is important, but it should not create an unhealthy imbalance between studies, work responsibilities, and personal well-being.
+## Expectations
 
-The key requirement is communication. If we know your availability early, we can plan your tasks properly and keep expectations fair and manageable.
+Students are expected to:
+
+- Attend arranged discussions when available
+- Communicate early if unavailable or stuck
+- Use GitHub properly
+- Keep work organised
+- Respect confidentiality
+- Ask questions
+- Learn independently between check-ins
+- Submit progress updates
+- Treat the internship as a professional opportunity
