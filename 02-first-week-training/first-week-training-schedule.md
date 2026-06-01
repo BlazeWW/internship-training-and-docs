@@ -103,3 +103,43 @@ Students understand the project context and how their group contributes.
 - Cloud Administration: setup checklist or deployment readiness draft
 - Cyber Security: security checklist or threat model draft
 - Architectural Draughting: zoning research note or first concept export
+
+## Updated Group-Specific First Week Outputs
+
+### Architectural Draughting
+
+- Complete Synergy Inc. site location summary.
+- Analyse the 24-hectare site at precinct level.
+- Prepare public/private/restricted zoning notes.
+- Prepare access and movement notes.
+- Prepare a first concept board.
+- List questions for Ben.
+
+### Software Engineering 1 and 2
+
+- Complete GitHub setup.
+- Attempt local Blaze Diagnostics setup.
+- Study TypeScript, Next.js, Tailwind CSS, PostgreSQL, and Prisma/ORM decision notes.
+- Review MVP user stories.
+- Prepare questions and select starter issues.
+
+### Software Development 1 and 2
+
+- Complete GitHub basics.
+- Study web fundamentals, TypeScript, Next.js, and Tailwind CSS.
+- Review customer, vehicle, job-card, quote, and parts workflows.
+- Prepare for small frontend, form, or workflow tasks.
+
+### Cloud Administration
+
+- Review GitHub organisation access.
+- Draft environment variable and secrets handling notes.
+- Study deployment environments.
+- Prepare backup, monitoring, and CI/CD checklist.
+
+### Cyber Security
+
+- Study OWASP Top 10.
+- Review authentication, authorization, role-based access, and GitHub secrets.
+- Prepare Blaze Diagnostics security checklist.
+- Prepare Synergy Inc. secure-zone considerations.

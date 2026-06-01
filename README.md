@@ -34,3 +34,22 @@ This is a remote internship. Meetings are arranged informally based on availabil
 - `11-github-issue-templates/` - issue templates and starter tasks
 - `12-policies-and-guidelines/` - remote communication and confidentiality
 - `13-resource-index/` - resource index by group
+
+## Current Site and Execution Planning Update
+
+The Synergy Inc. Architectural Draughting workstream now includes a 24-hectare site-analysis phase.
+
+Site reference:
+
+https://maps.app.goo.gl/27Jewne9cvYxC4SW8
+
+Working coordinates:
+
+- Latitude: -29.055508
+- Longitude: 26.153821
+
+New planning section:
+
+- `14-site-and-execution-planning/`
+
+Students must begin with site analysis and group-specific first-week training before detailed project work begins.
