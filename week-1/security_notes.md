@@ -37,3 +37,41 @@ I have performed a manual security repository review against the codebase guidel
 * **Rule: Security notes in the documentation**
     * *Status:* PASS
     * *Notes:* (Example: Confirmed that documentation contains instructions on secure local setup and environment variable configurations.)
+
+
+## Part 2: Task 2 - Customer Tracking Risk Review Checklist
+
+### Access Method
+- [ ] Require authenticated login with email/password or SSO
+- [ ] Avoid public, unauthenticated job pages
+- [ ] Use HTTPS/TLS 1.2+ for all connections
+- [ ] Enforce session timeout after 30-60 min inactivity
+
+### Access Links
+- [ ] Use unique, unguessable tokens if using magic links
+- [ ] Set links to expire after 7-14 days or on job completion
+- [ ] Provide a way for customers to request a new link
+- [ ] Redirect expired links to login or “Link inactive” page
+
+### Allowed Customer Visibility
+- [ ] Job status and estimated completion date
+- [ ] Basic job details: ID, item description, cost estimate
+- [ ] Photos/documents uploaded for their job only
+- [ ] Communication log for their job only
+
+### Restricted Customer Visibility
+- [ ] Other customers’ jobs and personal data
+- [ ] Internal notes, staff comments, supplier costs
+- [ ] Server logs, error stack traces, database IDs
+- [ ] Admin functions and edit/delete controls
+
+### Authentication Requirements
+- [ ] Require login for any personal or sensitive data
+- [ ] Allow only minimal public status checks if needed, e.g., “Job 12345: In Progress”
+- [ ] Recommend 2FA for first-time or high-risk job access
+
+### Risks and Mitigations
+- [ ] Data exposure if links are shared without auth → Mitigate with login + expiry
+- [ ] Account takeover via shared links → Mitigate with short-lived tokens
+- [ ] Phishing attacks using fake tracking links → Mitigate with domain verification and user education
+- [ ] Log access attempts for monitoring suspicious activity
